@@ -3,7 +3,7 @@
 ## Go 1.13
 
 - Speaker: [Martin Treml](https://martin.treml.dev)
-- Slides: [pdf]()
+- Slides: [pdf](go-1.13.pdf)
 
 ---
 
