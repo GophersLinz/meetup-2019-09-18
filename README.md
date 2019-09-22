@@ -2,8 +2,14 @@
 
 ## Go 1.13
 
-- Speaker: [Martin Treml](https://martin.treml.dev), [Andreas Grimmer](https://twitter.com/grimmer_andreas)
-- Slides: [go-1.13](go-1.13.pdf), [go-swagger](go-swagger.pdf)
+- Speaker: [Martin Treml](https://martin.treml.dev)
+- Slides: [go-1.13](go-1.13.pdf)
+
+
+## Go-Swagger
+
+- Speaker: [Andreas Grimmer](https://twitter.com/grimmer_andreas)
+- Slides: [go-swagger](go-swagger.pdf)
 - Example: [go-swagger live demo](go-swagger-example)
 
 ---
